@@ -1,4 +1,3 @@
-
 ---
 name: Propozycja funkcji
 about: Zaproponuj nową funkcjonalność lub usprawnienie
